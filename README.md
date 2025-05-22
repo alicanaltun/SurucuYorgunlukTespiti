@@ -12,6 +12,10 @@ Trafik kazalarının önemli bir kısmı, sürücünün yorgunluk veya dikkat da
 
 Kullanılan eşik değerler, uluslararası akademik çalışmalar ve tezlerden alınan bilimsel verilere dayanmaktadır. Bu, algoritmanın hassasiyetini ve doğruluğunu artırmak için önemli bir adım teşkil eder.
 
+## Örnek Kullanım Senaryosu ve Sistem Testi
+
+[Sistem Testi Videosunu İzlemek için Tıklayınız](https://drive.google.com/file/d/198FS9jOuJ1eHVdP3FZgIxpNdNBbEzDeD/view?usp=sharing)
+
 ## Özellikler
 
 - **Göz Kapanma Tespiti:** Eye Aspect Ratio (EAR) algoritması ile sürücünün göz kapanma süresi hesaplanır. Uzun süreli göz kapanmaları algılanır ve uyarı verilir.
